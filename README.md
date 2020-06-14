@@ -60,3 +60,10 @@ with an extension to define modes. If a group contains a binding with a label of
 ... Mode`, alluvium recognizes the group as a mode. The enter binding shows up in the
 `Modes` group in the top level display while the other bindings of the group are shown
 when you enter the mode.
+
+## Arch Linux
+
++ Package created as: `python-alluvium`
+
+Install with your favorite pacman helper (`yay`,`pikaur`,`trizen`, etc).  
+`$ yay|pikaur|trizen -S python-alluvium`
