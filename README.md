@@ -65,5 +65,5 @@ when you enter the mode.
 
 + Package created as: `python-alluvium`
 
-Install with your favorite pacman helper (`yay`,`pikaur`,`trizen`, etc).
+Install with your favorite pacman helper (`yay`,`pikaur`,`trizen`, etc).  
 `$ yay|pikaur|trizen -S python-alluvium`
