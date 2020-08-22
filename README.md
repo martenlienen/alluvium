@@ -63,7 +63,7 @@ when you enter the mode.
 
 ## Arch Linux
 
-+ Package created as: `python-alluvium`
++ Package created as: `alluvium-git`
 
 Install with your favorite pacman helper (`yay`,`pikaur`,`trizen`, etc).  
-`$ yay|pikaur|trizen -S python-alluvium`
+`$ yay|pikaur|trizen -S alluvium-git`
